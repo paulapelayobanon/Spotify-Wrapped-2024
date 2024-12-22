@@ -13,7 +13,7 @@ My R analysis is very basic and should only provide a few insights. I'm pretty s
 
 **3. Download R and RStudio.** I assume you are somewhat familiar with R and RStudio if you're reading this :D At the moment of writing these lines I don't master any other language or IDE so I have no idea how the analysis would look like in Python or so. If you are good at R and some other language, please feel free to "translate" the code if you like!
 
-**4. Install the required libraries** Do this once at the beginning and not as you go. It saves headaches!
+**4. Install the required libraries.** Do this once at the beginning and not as you go. It saves headaches!
 - library(rjson)
 - library(jsonlite)
 - library(lubridate)
