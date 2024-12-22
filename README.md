@@ -27,5 +27,5 @@ library(plotly)
 # Inspiration
 I based my work on https://github.com/savannamw2/SpotifyWrapped24/tree/main
 
-**_Hope you enjoy this and happy coding_**
+**_Hope you enjoy this little project and happy coding!!_**
 
