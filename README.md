@@ -17,11 +17,10 @@ My R analysis is very basic and should only provide a few insights. I'm pretty s
 - library(rjson)
 - library(jsonlite)
 - library(lubridate)
-- library(gghighlight)
 - library(tidyverse)
 - library(knitr)
-- library(ggplot2)
 - library(ggdark)
+- library(gghighlight)
 - library(plotly)
 
 # Inspiration
